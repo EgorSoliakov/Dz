@@ -1,0 +1,15 @@
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/bin/Debug/net6.0/exercise2
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/bin/Debug/net6.0/exercise2.deps.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/bin/Debug/net6.0/exercise2.runtimeconfig.json
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/bin/Debug/net6.0/exercise2.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/bin/Debug/net6.0/exercise2.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/exercise2.csproj.AssemblyReference.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/exercise2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/exercise2.AssemblyInfoInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/exercise2.AssemblyInfo.cs
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/exercise2.csproj.CoreCompileInputs.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/exercise2.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/refint/exercise2.dll
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/exercise2.pdb
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/exercise2.genruntimeconfig.cache
+/Users/egor/Documents/Учеба/Знакомство с яз.прогр./DZ2/exercise2/obj/Debug/net6.0/ref/exercise2.dll
